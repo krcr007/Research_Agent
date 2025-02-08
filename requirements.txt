@@ -2,5 +2,4 @@ pydantic
 phi
 phidata
 typing
-os
-json
+arvix
