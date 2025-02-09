@@ -2,6 +2,6 @@ pydantic
 phi
 phidata
 typing
-arvix
+arxiv
 pypdf
 streamlit
