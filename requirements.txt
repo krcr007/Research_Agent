@@ -3,3 +3,5 @@ phi
 phidata
 typing
 arvix
+pypdf
+streamlit
