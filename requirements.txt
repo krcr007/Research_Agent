@@ -7,3 +7,4 @@ pypdf
 streamlit
 duckduckgo-search
 wikipedia
+openai
